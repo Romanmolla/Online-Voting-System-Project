@@ -2,7 +2,7 @@
 Software Development Lab Project Report
 
 ## Some Images:
-<img width="450px;" 1.png"/>
+<img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/1.png?raw=true"/>
 <img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/2.png"/>
 <img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/3.png"/>
 <img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/4.png"/>
