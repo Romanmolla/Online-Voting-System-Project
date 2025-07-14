@@ -1,10 +1,6 @@
 # Online-Voting-System-Project
 Software Development Lab Project Report
 
-# My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
-
-
 ## Some Images:
 <img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(78).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/1.png)"/>
 <img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(79).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/2.png)"/>
