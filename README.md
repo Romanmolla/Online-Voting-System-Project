@@ -2,11 +2,11 @@
 Software Development Lab Project Report
 
 ## Some Images:
-<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(78).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/1.png"/>
-<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(79).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/2.png"/>
-<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(81).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/3.png"/>
-<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(81).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/4.png"/>
-<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(81).png](https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/5.png"/>
+<img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/1.png"/>
+<img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/2.png"/>
+<img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/3.png"/>
+<img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/4.png"/>
+<img width="450px;" https://github.com/Romanmolla/Online-Voting-System-Project/blob/main/5.png"/>
 
 
 ## Table of Contents
